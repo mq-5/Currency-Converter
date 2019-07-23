@@ -15,6 +15,7 @@ h1 {
   font-size: 70px;
   font-family: "Russo One", sans-serif;
   margin: 100px auto;
+  text-shadow: 5px 5px 5px black;
 }
 
 form {

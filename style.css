@@ -18,11 +18,12 @@ h1 {
   text-shadow: 5px 5px 5px black;
 }
 
-form {
+div.form-inline {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  padding-bottom: 10px;
 }
 
 #result {
